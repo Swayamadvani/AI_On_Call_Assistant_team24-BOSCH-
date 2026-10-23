@@ -361,9 +361,9 @@ click==8.5.0 \
     # via
     #   huggingface-hub
     #   uvicorn
-fastapi==0.143.3 \
-    --hash=sha256:75e8bd68e2f52f77d29b2879749c257d64de2d85282d25270caf2bfccce5efe5 \
-    --hash=sha256:b9ab567ee57afb4454004ce04c889f8f0160ac47946b99795887cd6e88484848
+fastapi==0.151.0 \
+    --hash=sha256:498923b00b193654c839ec613dd84d1b0f98f8c20a5371e4f41100c522f114b9 \
+    --hash=sha256:f5bd74323048882837f422b6592b11f84dda1754defc4545a4c570cfa19a7a41
     # via
     #   -r requirements.in
     #   gradio
